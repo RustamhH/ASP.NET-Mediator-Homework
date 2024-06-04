@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8ppeguG+D8KYgFaEBsexFQdG9VIWD4Q+NZXHYsLD9B7WEbrKXv/qJ72bREc61WeY3j6JNBc2mLMPdqZyGoUZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RustamHasanli\\Source\\Repos\\ASP.NET-Mediator-CQRS\\Core\\ECommerce.Application\\ECommerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RustamHasanli\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\RustamHasanli\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\RustamHasanli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
